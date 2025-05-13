@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1352310883631759372/1365397204596031700/83f3f5380939a0e0fa21e6d2ce559747.png?ex=680d28bd&is=680bd73d&hm=46cb0507285d7440e4c99169fa1e5f3725ad18a698b6e38c8868262ffc29a579&" width="330px">
+<img src="https://files.catbox.moe/r5ng9u.png" width="330px">
 
 ###### 〝 *It's Halloween,* everyone's *entitled to one good scare*.‶ 
 
